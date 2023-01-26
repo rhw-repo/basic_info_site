@@ -1,0 +1,17 @@
+{
+  "name": "basic_info_site",
+  "version": "1.0.0",
+  "description": "\"https://www.theodinproject.com/lessons/nodejs-basic-informational-site\"",
+  "main": "index.js",
+  "scripts": {
+    "dev": "nodemon"
+  },
+  "devDependencies": {
+    "express": "^4.18.2"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.0.3"
+  }
+}
